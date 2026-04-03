@@ -379,3 +379,4 @@ const friends = ['Bob', 'Tony', 'Tanya']
 ### Из branch1 - строка 3
 Extra 1 from old clone
 Extra 2 from old clone
+Extra 3 from old clone
