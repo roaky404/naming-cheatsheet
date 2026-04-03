@@ -375,3 +375,4 @@ const friends = ['Bob', 'Tony', 'Tanya']
 ```
 ### Из branch2 - строка A
 ### Из branch2 - строка B
+### Из branch2 - строка C
